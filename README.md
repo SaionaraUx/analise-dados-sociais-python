@@ -44,5 +44,12 @@ python analise.py
 Desenvolvido por Saionara Rufino Barros Frossard
 Estudante de Inteligência Artificial com foco em Engenharia de Dados e Analytics.
 LinkedIn: https://www.linkedin.com/in/saionara-rufino-barros-frossard-53a1302a0/
+## 🏗 Estrutura do Projeto
 
-📅 Atualizado em 2025
+analise-dados-sociais-python/
+│
+├── analise.py
+├── dados.csv
+├── dados_tratados.csv
+├── requirements.txt
+└── README.md
