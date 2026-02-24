@@ -45,4 +45,4 @@ Desenvolvido por Saionara Rufino Barros Frossard
 Estudante de Inteligência Artificial com foco em Engenharia de Dados e Analytics.
 LinkedIn: https://www.linkedin.com/in/saionara-rufino-barros-frossard-53a1302a0/
 
-📅 Atualizado em 202
+📅 Atualizado em 2025
