@@ -66,7 +66,7 @@ O projeto segue o padrão ETL:
 - **Load** → Exportação dos dados tratados  
 
 
- ##Exemplo de execução
+## 📊 Exemplo de execução
 
 Iniciando pipeline de dados...
 Média calculada: 1250.0
