@@ -44,6 +44,8 @@ python analise.py
 Desenvolvido por Saionara Rufino Barros Frossard
 Estudante de Inteligência Artificial com foco em Engenharia de Dados e Analytics.
 LinkedIn: https://www.linkedin.com/in/saionara-rufino-barros-frossard-53a1302a0/
+
+
 ## 🏗 Estrutura do Projeto
 
 analise-dados-sociais-python/
@@ -53,3 +55,12 @@ analise-dados-sociais-python/
 ├── dados_tratados.csv
 ├── requirements.txt
 └── README.md
+
+
+## 🔄 Arquitetura do Pipeline
+
+O projeto segue o padrão ETL:
+
+- **Extract** → Leitura do arquivo CSV  
+- **Transform** → Limpeza e criação de nova coluna  
+- **Load** → Exportação dos dados tratados  
