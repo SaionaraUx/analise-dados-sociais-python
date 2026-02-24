@@ -46,7 +46,7 @@ Estudante de Inteligência Artificial com foco em Engenharia de Dados e Analytic
 LinkedIn: https://www.linkedin.com/in/saionara-rufino-barros-frossard-53a1302a0/
 
 
-Estrutura do Projeto
+##Estrutura do Projeto
 
 analise-dados-sociais-python/
 │
@@ -57,7 +57,7 @@ analise-dados-sociais-python/
 └── README.md
 
 
-Arquitetura do Pipeline
+##Arquitetura do Pipeline
 
 O projeto segue o padrão ETL:
 
@@ -66,7 +66,7 @@ O projeto segue o padrão ETL:
 - **Load** → Exportação dos dados tratados  
 
 
- Exemplo de execução
+ ##Exemplo de execução
 
 Iniciando pipeline de dados...
 Média calculada: 1250.0
