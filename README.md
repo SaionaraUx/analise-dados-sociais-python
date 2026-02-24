@@ -1,6 +1,6 @@
 📊 Análise de Dados Sociais com Python
 
-Projeto desenvolvido para demonstrar um pipeline básico de dados usando Python e a biblioteca pandas, aplicando os principais conceitos de ETL (extração, transformação e carga) em um conjunto de dados.
+Projeto desenvolvido para demonstrar um pipeline básico de dados usando Python e a biblioteca pandas, aplicando os principais conceitos de ETL (Extração, Transformação e Carga) em um conjunto de dados.
 
 🛠️ Tecnologias utilizadas
 
@@ -12,13 +12,13 @@ CSV (dados)
 
 📌 O que este projeto faz
 
-Este projeto realiza um pipeline de dados completo:
+Este projeto realiza um pipeline de dados completo com as seguintes etapas:
 
 Leitura de arquivo CSV
 
 Limpeza de dados nulos
 
-Criação de uma coluna adicional
+Criação de uma nova coluna calculada
 
 Cálculo de média de valores
 
@@ -26,21 +26,23 @@ Exportação dos dados tratados
 
 📥 Como usar
 
-Baixe ou adicione um arquivo chamado dados.csv
+Envie um arquivo chamado dados.csv para a pasta principal do projeto
 
-Execute o script no terminal:
+Execute no terminal o comando:
 
 python analise.py
 🧠 O que esse projeto demonstra
 
 ✔ Manipulação de dados com Python e pandas
-✔ Conceitos de ETL aplicados
+✔ Aplicação de conceitos de ETL
 ✔ Organização e estrutura de código
 ✔ Pipeline de dados simples
-✔ Preparação para vagas de estágio em Engenharia de Dados
+✔ Prática voltada para Engenharia de Dados
 
-📎 Sobre a autora
+👩‍💻 Sobre a autora
 
-Desenvolvido por: Saionara Rufino Barros Frossard
+Desenvolvido por Saionara Rufino Barros Frossard
 Estudante de Inteligência Artificial com foco em Engenharia de Dados e Analytics.
 LinkedIn: https://www.linkedin.com/in/saionara-rufino-barros-frossard-53a1302a0/
+
+📅 Atualizado em 202
